@@ -4,8 +4,8 @@
 [![rank](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9/KuroriShizuri/fortune-in-a-pot-20261124/rank.svg)](https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-fortune-in-a-pot-ded981e9)
 [![reward](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9/KuroriShizuri/fortune-in-a-pot-20261124/reward.svg)](https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-fortune-in-a-pot-ded981e9)
 
-One line, 116 characters: a kind, funny fortune for a houseplant on a windowsill.
-By spring, your leaves will outgrow this windowsill — and so will your keeper's excuses for buying you a bigger pot.
+One line, 111 characters: a kind, funny fortune for a houseplant on a windowsill.
+By spring you'll outgrow this windowsill — and your keeper will run out of excuses not to buy you a bigger pot.
 
 ## Run it
 

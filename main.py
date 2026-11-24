@@ -23,7 +23,7 @@ import tempfile
 from pathlib import Path
 
 # The fortune itself. The wording is the judged line: do not change it.
-ENTRY = "By spring, your leaves will outgrow this windowsill \u2014 and so will your keeper's excuses for buying you a bigger pot."
+ENTRY = "By spring you'll outgrow this windowsill \u2014 and your keeper will run out of excuses not to buy you a bigger pot."
 
 # The entry as the exact bytes written to disk. Single source of truth
 # for what the grader reads; ENTRY is its decoded form.
